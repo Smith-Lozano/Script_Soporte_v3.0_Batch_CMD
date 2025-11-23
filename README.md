@@ -37,6 +37,5 @@ Misma funcionalidad, diferente tecnología:
 🔗 Descarga: 
 
 Compatible con el entorno de CMD: Si bien esto implica que algunas funciones nativas de PowerShell no están disponibles, la herramienta integra comandos y utilidades esenciales para la administración y soporte técnico de sistemas.
-¿Te han bloqueado la ejecución de scripts en PowerShell? ¡Esta es tu alternativa en batch/CMD!
 
-#PowerShellRestrictions #BatchScripting #WindowsAdmin #CorporateIT #DomainPolicies #SoporteTecnico #ITSolutions
+¿Te han bloqueado la ejecución de scripts en PowerShell? ¡Esta es tu alternativa en batch/CMD!
